@@ -1,4 +1,4 @@
-# AFrame - Scatterplot
+ Scatterplot
 
 ### Introduction
 
